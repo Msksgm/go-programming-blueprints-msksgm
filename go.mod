@@ -3,6 +3,7 @@ module github.com/msksgm/go-programming-blueprints-msksgm
 go 1.17
 
 require (
+	github.com/cheekybits/is v0.0.0-20150225183255-68e9c0620927 // indirect
 	github.com/clbanning/x2j v0.0.0-20191024224557-825249438eec // indirect
 	github.com/garyburd/go-oauth v0.0.0-20180319155456-bca2e7f09a17 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
